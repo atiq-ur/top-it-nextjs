@@ -4,7 +4,6 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import Image from "next/image";
 import Link from "next/link";
-import pic from "../../assets/banner/banner.jpg";
 
 const OurService = ({ service, index }) => {
   useEffect(() => {
@@ -14,7 +13,9 @@ const OurService = ({ service, index }) => {
 
   // Calculate whether the index is odd or even
   const isOdd = index % 2 !== 0;
-  console.log(image);
+  const imageLoader = ({ src, width, quality }) => {
+    return `https://i.ibb.co/${src}?w=${width}&q=${quality || 75}`
+  }
 
   return (
     <div
@@ -32,12 +33,13 @@ const OurService = ({ service, index }) => {
         </Link>
       </div>
       <div data-aos="fade-left" className="md:w-1/2">
+        {image}
         <Image
-          src="https://i.ibb.co/0j4RK7r/home-banner.png"
-          alt="Picture of the author"
-          width="350px"
-          height="300px"
-          layout="responsive"
+          loader={imageLoader}
+          src={image}
+          width={500}
+          height={500}
+          alt=""
         />
       </div>
     </div>

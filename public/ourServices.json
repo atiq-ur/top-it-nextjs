@@ -3,28 +3,28 @@
     "id": 1,
     "title": "Custom Software Development",
     "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
-    "image": "https://i.ibb.co/0j4RK7r/home-banner.png",
+    "image": "0j4RK7r/home-banner.png",
     "category": "software"
   },
   {
     "id": 2,
     "title": "Web Application Development",
     "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
-    "image": "https://i.ibb.co/nwtsCHP/home-dev-394x394.png",
+    "image": "nwtsCHP/home-dev-394x394.png",
     "category": "web"
   },
   {
     "id": 3,
     "title": "Mobile Application Development",
     "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
-    "image": "https://i.ibb.co/wwt9Gk6/home-qa-394x394.png",
+    "image": "wwt9Gk6/home-qa-394x394.png",
     "category": "mobile"
   },
   {
     "id": 4,
     "title": "Quality Assurance & Testing",
     "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
-    "image": "https://i.ibb.co/K201n6P/home-web-312x303.png",
+    "image": "K201n6P/home-web-312x303.png",
     "category": "quality"
   }
 ]
