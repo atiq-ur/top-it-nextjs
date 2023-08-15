@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Qualified Engineers",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "https://www.enosisbd.com/wp-content/uploads/2020/06/home-engineers.png"
+  },
+  {
+    "id": 2,
+    "title": "Dedicated Team",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "https://www.enosisbd.com/wp-content/uploads/2020/06/home-team.png"
+  },
+  {
+    "id": 3,
+    "title": "Collaborative Process",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "https://www.enosisbd.com/wp-content/uploads/2020/06/home-collaboration.png"
+  },
+  {
+    "id": 4,
+    "title": "Continuous Supervision",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "https://www.enosisbd.com/wp-content/uploads/2020/06/home-supervision.png"
+  }
+]

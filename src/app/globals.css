@@ -2,26 +2,43 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+/* Menu under line started */
+.menuEffect {
+  @apply relative uppercase;
+}
+.menuEffect::after {
+  @apply absolute content-[""] h-[2px] w-[0%] bg-primary left-0 -bottom-2 duration-300;
+}
+.menuEffect::after:hover {
+  @apply w-[100%];
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+/* Active */
+.menuActive {
+  @apply relative uppercase text-primary;
+}
+.menuActive::after {
+  @apply absolute content-[""] h-[2px] w-[100%] bg-primary left-0 -bottom-2;
+}
+/* Menu under line end */
+
+/* button start */
+.btn-primary {
+  @apply py-2 px-4 border-2 border-primary hover:bg-primary hover:text-white duration-300 rounded-md cursor-pointer;
+}
+/* button end */
+rowReverse:nth-child(odd) {
+  @apply md:flex-row-reverse;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+/* Benefits section start */
+.benefitIcon1:hover {
+  @apply bg-gray-100 duration-300;
 }
+.benefitIcon1 .benefitIcon2:first-child {
+  @apply text-primary;
+}
+.benefitIcon1:hover .benefitIcon2:first-child {
+  @apply text-white bg-primary duration-300;
+}
+/* Benefits section end */

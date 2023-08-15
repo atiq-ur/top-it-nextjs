@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Experience",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "BsFillRocketTakeoffFill",
+    "category": "software"
+  },
+  {
+    "id": 2,
+    "title": "Full-Cycle Development Services",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "MdEngineering",
+    "category": "software"
+  },
+  {
+    "id": 3,
+    "title": "Agile Methodology",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "GiAscendingBlock",
+    "category": "software"
+  },
+  {
+    "id": 4,
+    "title": "Transparent Process",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "VscSettingsGear",
+    "category": "software"
+  },
+  {
+    "id": 5,
+    "title": "Redesign Outdated Apps",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "BsFillRocketTakeoffFill",
+    "category": "web"
+  },
+  {
+    "id": 6,
+    "title": "Custom Web App Development",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "MdEngineering",
+    "category": "web"
+  },
+  {
+    "id": 7,
+    "title": "Third-Party Integrations",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "GiAscendingBlock",
+    "category": "web"
+  },
+  {
+    "id": 8,
+    "title": "Enterprise Portal Development",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "VscSettingsGear",
+    "category": "web"
+  },
+  {
+    "id": 9,
+    "title": "Requirement Analysis",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "BsFillRocketTakeoffFill",
+    "category": "mobile"
+  },
+  {
+    "id": 10,
+    "title": "Prototype",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "MdEngineering",
+    "category": "mobile"
+  },
+  {
+    "id": 11,
+    "title": "App Development",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "GiAscendingBlock",
+    "category": "mobile"
+  },
+  {
+    "id": 12,
+    "title": "Quality Assurance",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "VscSettingsGear",
+    "category": "mobile"
+  },
+  {
+    "id": 13,
+    "title": "Independent QA",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "BsFillRocketTakeoffFill",
+    "category": "quality"
+  },
+  {
+    "id": 14,
+    "title": "Integrated Testing",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "MdEngineering",
+    "category": "quality"
+  },
+  {
+    "id": 15,
+    "title": "QA Consulting",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "GiAscendingBlock",
+    "category": "quality"
+  },
+  {
+    "id": 16,
+    "title": "Full-Cycle Testing",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "VscSettingsGear",
+    "category": "quality"
+  }
+]

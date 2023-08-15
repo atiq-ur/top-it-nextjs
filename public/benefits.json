@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Kick Start",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "BsFillRocketTakeoffFill"
+  },
+  {
+    "id": 2,
+    "title": "Top Quality Engineers",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "MdEngineering"
+  },
+  {
+    "id": 3,
+    "title": "End to End Management",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "GiAscendingBlock"
+  },
+  {
+    "id": 4,
+    "title": "Operational Efficiency",
+    "desc": "A top tier software development team assisting owners and decision makers to implement digital initiatives to achieve lasting financial success",
+    "image": "VscSettingsGear"
+  }
+]

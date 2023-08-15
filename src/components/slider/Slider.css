@@ -1,0 +1,38 @@
+.slider {
+  position: relative;
+  height: 100%;
+}
+
+.slider {
+  background: #eee;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  object-fit: cover;
+}
+.swiper-button-prev,
+.swiper-rtl .swiper-button-next {
+  color: #ea2a33;
+}
+.swiper-button-next,
+.swiper-rtl .swiper-button-prev {
+  color: #ea2a33;
+}

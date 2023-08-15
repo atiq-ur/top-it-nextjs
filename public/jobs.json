@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "description": "We are looking for a skilled Software Engineer to join our development team...",
+    "deadline": "2023-09-30",
+    "department": "Engineering",
+    "employment_type": "Full-time",
+    "location": "San Francisco, CA",
+    "workplace_type": "On-site",
+    "salary": "$100,000 - $120,000",
+    "key_responsibilities": [
+      "Design and implement software solutions",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and debug applications",
+      "Participate in code reviews"
+    ],
+    "skills": ["Java", "Python", "Agile methodologies", "Problem-solving"],
+    "experience": "3+ years of software development",
+    "about": "Our company is a leading technology firm..."
+  },
+  {
+    "id": 2,
+    "title": "Marketing Coordinator",
+    "description": "We are seeking a Marketing Coordinator to assist in planning and executing...",
+    "deadline": "2023-09-15",
+    "department": "Marketing",
+    "employment_type": "Part-time",
+    "location": "New York, NY",
+    "workplace_type": "Remote",
+    "salary": "$50,000 - $60,000 (pro-rated)",
+    "key_responsibilities": [
+      "Assist in creating marketing campaigns",
+      "Coordinate with external partners",
+      "Track and analyze campaign performance",
+      "Generate marketing reports"
+    ],
+    "skills": [
+      "Marketing coordination",
+      "Communication skills",
+      "Data analysis",
+      "Attention to detail"
+    ],
+    "experience": "1+ year in marketing or related field",
+    "about": "Our marketing team is dedicated to..."
+  }
+]
